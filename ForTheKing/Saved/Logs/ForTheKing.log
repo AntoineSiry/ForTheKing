@@ -1196,3 +1196,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.09-10.33.57:469][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2022.03.09-10.33.57:523][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.03.09-10.33.57:534][  0]LogSlate: Took 0.000945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.03.09-10.34.42:668][286]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.09-10.34.42:679][286]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.09-10.34.46:866][538]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.03.09-10.34.46:867][538]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.09-10.34.49:861][712]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.09-10.34.49:873][712]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.09-10.34.53:776][947]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.03.09-10.34.53:776][947]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.09-10.34.55:991][ 76]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.09-10.34.56:006][ 76]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.09-10.34.58:643][235]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.03.09-10.34.58:644][235]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.09-10.35.38:433][154]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.09-10.35.38:462][154]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.09-10.35.47:142][154]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.09-10.35.47:149][154]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.09-10.35.47:155][154]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.09-10.35.54:167][575]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Character
+[2022.03.09-10.35.54:185][575]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.09-10.36.06:664][318]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.09-10.36.35:650][ 52]LogSlate: Window 'Color Picker' being destroyed
